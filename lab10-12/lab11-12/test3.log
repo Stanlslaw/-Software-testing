@@ -1,0 +1,24 @@
+[ERROR] 2024-04-27T06:37:42.231Z: NoSuchElementError: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/header/div[2]/nav/ul/li[4]"}
+  (Session info: chrome=124.0.6367.60)
+[ERROR] 2024-05-25T03:54:09.371Z: TypeError: Invalid locator
+[ERROR] 2024-05-25T03:55:13.915Z: TypeError: Invalid locator
+[ERROR] 2024-05-25T03:57:48.144Z: TypeError: Invalid locator
+[ERROR] 2024-05-25T03:58:58.543Z: TypeError: Invalid locator
+[ERROR] 2024-05-25T03:59:52.841Z: TypeError: Invalid locator
+[ERROR] 2024-05-25T04:00:29.398Z: TypeError: Invalid locator
+[ERROR] 2024-05-25T04:03:05.818Z: ElementClickInterceptedError: element click intercepted: Element <a class="modal inform_availability" href="/pist/inform_availability_product/showform.htm?tmpl=component&amp;prod_id=5510" rel="{handler: 'iframe', size: {x: 335, y: 240}}">...</a> is not clickable at point (553, 666). Other element would receive the click: <iframe id="jo_qq13000" class="jo_qq" src="//files.jumpoutpopup.ru/5b72cf50656ff.html" scrolling="no" seamless="seamless" style="height: 46px;"></iframe>
+  (Session info: chrome=125.0.6422.77)
+[ERROR] 2024-05-25T04:06:44.279Z: TimeoutError: Waiting for element to be located By(xpath, //*[@id="iap_name"])
+Wait timed out after 10041ms
+[ERROR] 2024-05-25T04:08:13.186Z: TimeoutError: Waiting for element to be located By(xpath, //*[@id="iap_name"])
+Wait timed out after 10026ms
+[ERROR] 2024-05-25T04:09:55.896Z: TimeoutError: Waiting for element to be located By(xpath, /html/body/div[2]/div/table/tbody/tr[2]/td/input)
+Wait timed out after 10187ms
+[ERROR] 2024-05-25T04:10:28.176Z: NoSuchElementError: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/table/tbody/tr[2]/td/input"}
+  (Session info: chrome=125.0.6422.77)
+[ERROR] 2024-05-25T04:17:57.938Z: NoSuchElementError: no such element: Unable to locate element: {"method":"css selector","selector":"*[name="jo_qq13000\'"]"}
+  (Session info: chrome=125.0.6422.77)
+[ERROR] 2024-05-25T04:19:14.571Z: InvalidArgumentError: invalid argument: missing 'ELEMENT'
+  (Session info: chrome=125.0.6422.77)
+[ERROR] 2024-05-25T04:22:01.086Z: NoSuchElementError: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[14]/div/iframe"}
+  (Session info: chrome=125.0.6422.77)

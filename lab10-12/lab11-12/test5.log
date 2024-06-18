@@ -1,0 +1,15 @@
+[ERROR] 2024-04-26T17:58:31.369Z: ElementNotInteractableError: element not interactable
+  (Session info: chrome=124.0.6367.61)
+[ERROR] 2024-04-26T18:01:07.948Z: NoSuchElementError: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/article/div[2]/div[2]/div[1]/div[2]/div[2]/div[1]/div/div[1]"}
+  (Session info: chrome=124.0.6367.61)
+[ERROR] 2024-04-26T18:01:17.762Z: NoSuchElementError: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/article/div[2]/div[2]/div[1]/div[2]/div[2]/div[1]/div/div[1]"}
+  (Session info: chrome=124.0.6367.61)
+[ERROR] 2024-04-26T18:01:59.120Z: NoSuchElementError: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/article/div[2]/div[2]/div[1]/div[2]/div[2]/div[1]/div/div[1]"}
+  (Session info: chrome=124.0.6367.61)
+[ERROR] 2024-04-27T06:39:34.759Z: NoSuchElementError: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/article/div[2]/div[2]/div[1]/div[2]/div[2]/div[1]/div/div[1]"}
+  (Session info: chrome=124.0.6367.60)
+[ERROR] 2024-05-25T05:30:04.680Z: NoSuchElementError: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[8]/div/form/div[1]/div[1]/span/input"}
+  (Session info: chrome=125.0.6422.77)
+[ERROR] 2024-05-25T05:31:29.517Z: NoSuchElementError: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[8]/div/form/div[1]/div[2]/span/input"}
+  (Session info: chrome=125.0.6422.77)
+[ERROR] 2024-05-25T05:32:59.198Z: TypeError: pentagonProductPage.sendForm is not a function
